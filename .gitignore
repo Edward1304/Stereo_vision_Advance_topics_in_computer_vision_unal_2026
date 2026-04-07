@@ -1,0 +1,6 @@
+# Variables de entorno
+.env
+.env.*
+
+# Archivos .raw
+*.raw
